@@ -1,0 +1,19 @@
+.container-flex{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+body {
+    background-color: darkgoldenrod;
+}
+#number2, #number2, #number3 {
+    margin: 1%;
+}
+
+#centro {
+    text-align: center;
+}
